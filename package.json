@@ -60,18 +60,18 @@
   "devDependencies": {
     "@babel/core": "^7.8.3",
     "babel-core": "^7.0.0-bridge.0",
-    "eslint": "^6.8.0",
+    "eslint": "^8.7.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-import": "^2.20.0",
     "eslint-plugin-prettier": "^3.1.2",
     "husky": "^4.2.1",
-    "jest": "^25.1.0",
+    "jest": "^27.4.7",
     "lint-staged": "^10.0.3",
     "lodash": "^4.17.15",
     "prettier": "^1.19.1",
     "slash": "^3.0.0",
-    "stylelint": "^13.0.0",
+    "stylelint": "^14.3.0",
     "typescript": "~3.7.5"
   },
   "peerDependency": {
@@ -82,6 +82,6 @@
     "@babel/parser": "^7.8.3",
     "@babel/traverse": "^7.8.3",
     "micromatch": "^4.0.2",
-    "postcss": "^7.0.26"
+    "postcss": "^8.4.5"
   }
 }
